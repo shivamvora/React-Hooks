@@ -1,5 +1,6 @@
 import './App.css';
 import CounterHook from './CounterHook';
+import SimpleFormHook from './SimpleFormHook';
 import Toggler from './Toggler';
 
 
@@ -9,6 +10,7 @@ function App() {
       
       <CounterHook/>
       <Toggler/>
+      <SimpleFormHook/>
     
     </div>
   );
